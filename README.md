@@ -1,1 +1,1 @@
-# Utopian-Tree-algo
+# Utopian-Tree-algo This program simulates the growth of the Utopian Tree. Starting at height 1, the tree doubles in height during spring (even cycles) and grows by 1 during summer (odd cycles), repeating this for n growth cycles to return the final height.
